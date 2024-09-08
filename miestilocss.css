@@ -1,0 +1,114 @@
+@charset "utf-8";
+
+.morado {
+    background-color: #E8C9E6;
+}
+
+.rosa {
+    background-color: #FFDDDE;
+}
+
+.titu   {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 217%;
+    color: #000000;
+    font-style: italic;
+    clear: left;
+    top: -226px;
+    margin-top: -52px;
+    padding-top: 21px;
+    float: left;
+    text-align: center;
+}
+
+
+
+
+.imagen {
+}
+
+.jumbcolor {
+    background-color: #FFFFFF;
+}
+
+.imag {
+    border-width: thin;
+    overflow-y: auto;
+    left: -44px;
+    top: -71px;
+}
+
+.botonuno {
+    float: right;
+    background-image: -webkit-linear-gradient(270deg,rgba(170,0,2,1.00) 0%,rgba(207,0,1,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(170,0,2,1.00) 0%,rgba(207,0,1,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(170,0,2,1.00) 0%,rgba(207,0,1,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(170,0,2,1.00) 0%,rgba(207,0,1,1.00) 100%,rgba(255,0,0,1.00) 100%);
+}
+
+.container footer {
+    background-color: rgba(170,0,2,1.00);
+    background-image: url(img/footer.png);
+}
+
+.footerl {
+    background-image: url(img/footer2.png);
+    border-left-width: thin;
+    border-left-color: rgba(73,51,51,1.00);
+}
+
+.botonuñas {
+    float: right;
+    padding-bottom: 11px;
+    margin-bottom: -22px;
+    margin-top: 94px;
+
+
+
+}
+
+
+
+
+.barra {
+    background-image: url(img/barrae.png);
+}
+
+.jumbotrop {
+    background-color: #000000;
+    color: #FFFFFF;
+    border-left-width: 0em;
+    background-size: auto -139px;
+    border-collapse: separate;
+    border-right-width: thick;
+}
+
+.jumbotron.jumbcolor .lead .btn.btn-primary.btn-lg.botonuno {
+}
+
+.imagtext {
+    color: rgba(255,255,255,1.00);
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+.contauno {
+    background-image: url(img/fondopagconexiones.png);
+}
+
+.imagcontainer {
+    background-image: url(img/fondonegro.png);
+    color: rgba(255,255,255,1.00);
+}
+
+.imagdos {
+    background-image: url(img/fondorojo.png);
+    color: rgba(255,255,255,1.00);
+}
+
+.imagblan {
+    background-image: url(img/fondoblanco.png);
+}
+
+.expresionesimaguno {
+    background-image: url(img/expresiones.png);
+}
